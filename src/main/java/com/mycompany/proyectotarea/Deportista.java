@@ -39,6 +39,6 @@ public class Deportista extends Persona {
 
     // Método específico de Deportista
     public void entrenar() {
-        System.out.println(getNombre() + " está entrenando para mejorar en " + deporte + ".");
+        System.out.println(getNombre() + " esta entrenando para mejorar en " + deporte + ".");
     }
 }
